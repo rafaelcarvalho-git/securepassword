@@ -1,0 +1,27 @@
+.home {
+    background: red;
+    width: 800px;
+    margin: 100px auto auto auto;
+    border-radius: 16px;
+}
+
+.home button, .home button * {
+    width: 240px;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.tips {
+    margin: auto;
+    background: rgb(129, 129, 172);
+    max-width: 850px;
+    border-radius: 16px;
+    padding: 24px 32px 24px 32px;
+}
+
+.icon {
+    font-size: 64px;
+}
